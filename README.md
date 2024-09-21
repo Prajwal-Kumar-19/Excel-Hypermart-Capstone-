@@ -1,4 +1,4 @@
-🛒 **Excel-Driven Capstone Project**
+🛒 ***Excel-Driven Capstone Project**
 
 📊 **Project Overview**
 
