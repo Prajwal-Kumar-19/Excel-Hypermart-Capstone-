@@ -63,6 +63,5 @@ Skills used
 🔍 Trend Identification
 ⚙️ Optimization Strategies
 
-Hashtags
 
 #📊ExcelAnalytics #📈DataAnalysis #💼BusinessIntelligence #🛒OrderManagement #👥CustomerInsights #🚚DeliveryOptimization #💸RevenueAnalysis #✅CompletionRate #💡LTVCalculation #🔧AdvancedExcel #📉DataDrivenDecisionMaking #🏪RetailAnalytics #🎓CapstoneProject
