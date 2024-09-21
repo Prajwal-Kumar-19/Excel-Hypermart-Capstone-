@@ -1,6 +1,6 @@
 # Excel-Hypermart-Capstone
 
-🛒 Freshco Hypermarket Capstone Project Overview
+🛒 Hypermarket Capstone Project Overview
 
 Project Focus: Analyzing order and delivery data from an Hypermarket
 
